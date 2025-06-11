@@ -302,7 +302,7 @@ If you use this code in your research, please cite:
 
 ## License
 
-This project is released under the MIT License. See LICENSE file for details.
+This project is released under the Apache License. See LICENSE file for details.
 
 ## Acknowledgments
 
